@@ -3,7 +3,7 @@ README
 
 | Master Viewer | CEO Developer | Release |
 | :---: | :---: | :---: |
-[![Build Status](https://secure.travis-ci.org/phpindonesia/phpindonesia.png?branch=master&)](http://pasarkode.com)|[![Build Status](https://secure.travis-ci.org/phpindonesia/phpindonesia.png?branch=develop&)](http://travis-ci.org/phpindonesia/phpindonesia)|[![Dependencies Status](https://www.wakuwakuw.com/d/7916557)](http://pasarkode.com/release.code)
+[![Build Status](https://secure.travis-ci.org/phpindonesia/phpindonesia.png?branch=master&)](http://pasarkode.com)|[![Build Status](https://secure.travis-ci.org/phpindonesia/phpindonesia.png?branch=develop&)](http://pasarkode.com/all.code)|[![Dependencies Status](https://www.wakuwakuw.com/d/7916557)](http://pasarkode.com/release.code)
 
 
 
