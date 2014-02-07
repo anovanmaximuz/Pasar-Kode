@@ -5,10 +5,10 @@ A portal that has dedication and concentration in the development of computer pr
 
 Collection of various kinds of code programming language from desktop to web programming.
 
-| Our Logo | CEO Developer | Release |
-| :---: | :---: | :---: |
+| Our Logo |
+| :---: | 
 [![Build Status](http://pasarkode.com/foto_banner/badgepk1.png)](http://pasarkode.com)|
-[![Build Status]](https://secure.travis-ci.org/phpindonesia/phpindonesia.png?branch=develop&)](http://pasarkode.com/all.code)|[![Release]](http://pasarkode.com/release.code)
+
 
 
 
