@@ -8,7 +8,7 @@ Collection of various kinds of code programming language from desktop to web pro
 | Our Logo | CEO Developer | Release |
 | :---: | :---: | :---: |
 [![Build Status](http://pasarkode.com/foto_banner/badgepk1.png)](http://pasarkode.com)|
-[![Build Status](https://secure.travis-ci.org/phpindonesia/phpindonesia.png?branch=develop&)](http://pasarkode.com/all.code)|[![Release](https://www.wakuwakuw.com/d/7916557)](http://pasarkode.com/release.code)
+[![Build Status](https://secure.travis-ci.org/phpindonesia/phpindonesia.png?branch=develop&)](http://pasarkode.com/all.code)|[![Release](http://pasarkode.com/release.code)
 
 
 
