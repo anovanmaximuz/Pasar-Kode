@@ -11,15 +11,12 @@ Collection of various kinds of code programming language from desktop to web pro
 
 
 
-Proyek ini merupakan proyek terbukan untuk pengembangan bahasa tampilan di www.pasarkode.com dimana setiap orang bisa berkontribusi secara langsung, setiap kontributor akan dicantumkan dalam nama pengembangan bahasa.
+This project is only for share information about
 
-Anda bisa menghubungi CEO secara langsung untuk detail pengembangan ini jika ada sesuatu yang belum jelas [The CEO](https://facebook.com/anovanmaximuz) 
+You can contact the CEO directly for detail about al development [The CEO](https://facebook.com/anovanmaximuz) 
 
 
-Dasar System
+Core System
 ------------
 
-Proyek ini menggunakan beberapa bahasa pemrograman dan markup seperti CSS3, HTML, Javascript, PHP, jQuery, Ajax dan beberapa plugin yang dikembangkan oleh pihak ke-3 lainnya.
-
-Basis server menggunakan Apache 2.1 dengan database MySQL
 
