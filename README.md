@@ -10,10 +10,6 @@ Collection of various kinds of code programming language from desktop to web pro
 [![Build Status](http://pasarkode.com/foto_banner/badgepk1.png)](http://pasarkode.com)|
 
 
-
-
-This project is only for share information about
-
 You can contact the CEO directly for detail about al development [The CEO](https://facebook.com/anovanmaximuz) 
 
 
